@@ -11,4 +11,4 @@ script:
 deploy:
   provider: heroku
   api_key: "76054ddb-4f9a-4576-869c-735a1e3d7d26"
-
+  app: "reduxstarter"
